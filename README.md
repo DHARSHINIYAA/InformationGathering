@@ -72,44 +72,59 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ```
 
 ## OUTPUT:
-### History of the website :
-<img width="1817" height="966" alt="Screenshot 2025-08-30 093152" src="https://github.com/user-attachments/assets/8dabdc99-9cae-4fd6-bc50-22847a4d6657" />
-
-### ping command :
-# Windows OS
-<img width="1026" height="343" alt="Screenshot 2025-08-30 232125" src="https://github.com/user-attachments/assets/ae11d4b7-4b14-43c3-8ee7-f9dd96ed1469" />
-
-### Liux OS:
-<img width="820" height="389" alt="Screenshot 2025-08-30 231948" src="https://github.com/user-attachments/assets/2b302b76-3675-4aca-9cc8-1dd718cb2f80" />
 ### Whois
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/a421b5c7-d403-4d06-a3c6-dff780c1d2ef" />
+
+<img width="911" height="738" alt="image" src="https://github.com/user-attachments/assets/5738181c-dce0-458c-8b42-afe9500d3663" />
 
 ### Finding Hosting Company :
-<img width="1824" height="881" alt="Screenshot 2025-08-30 092908" src="https://github.com/user-attachments/assets/91df735c-6c1e-429a-affa-1dd21e93c756" />
 
-<img width="1822" height="877" alt="Screenshot 2025-08-30 092925" src="https://github.com/user-attachments/assets/172c6cf5-a476-430e-9112-9fe96f0de360" />
 
-##  whois :
-<img width="796" height="455" alt="Screenshot 2025-08-30 232159" src="https://github.com/user-attachments/assets/0fb79208-ca5f-4b53-a529-daa5bc0d1111" />
+<img width="1617" height="847" alt="image" src="https://github.com/user-attachments/assets/785c5332-534a-4754-85d0-645e2ecb075e" />
+
+
+### History of the website :
+
+
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/3fd65f7b-6a24-41dc-b8b5-f1aee477132a" />
+
+
+### ping command :
+<img width="735" height="694" alt="image" src="https://github.com/user-attachments/assets/354b4935-5a03-4c5f-8637-b7b749d157a4" />
+
+
+### whois :
+
+<img width="760" height="742" alt="image" src="https://github.com/user-attachments/assets/79694cd4-c12c-4d63-b313-913e1506a733" />
+
 
 ### netcat :
-<img width="790" height="296" alt="Screenshot 2025-08-30 232529" src="https://github.com/user-attachments/assets/b323a33c-480d-4543-8c81-a7a41b53ae52" />
+
+<img width="665" height="108" alt="image" src="https://github.com/user-attachments/assets/bb93be15-acb6-4473-bc3b-590e015f712c" />
 
 ### nmap :
-<img width="758" height="223" alt="Screenshot 2025-08-30 232911" src="https://github.com/user-attachments/assets/cb8fcc90-ecea-46b8-884b-3914fa80c3fe" />
+
+<img width="637" height="261" alt="image" src="https://github.com/user-attachments/assets/37659d82-c9f5-47c1-a5bc-4baff004e2db" />
+
 
 ### whatweb :
-<img width="932" height="248" alt="Screenshot 2025-08-30 233059" src="https://github.com/user-attachments/assets/3181ef06-d03a-4939-a53e-d9b33af1c3cb" />
+
+<img width="745" height="197" alt="image" src="https://github.com/user-attachments/assets/928a6c89-b160-421c-add3-4dd7bd400aa0" />
+
 
 ### httprint :
-<img width="710" height="813" alt="Screenshot 2025-08-30 233141" src="https://github.com/user-attachments/assets/d9b90237-6317-4ebc-9ad0-c2db9d7cbf1e" />
+
+<img width="630" height="208" alt="image" src="https://github.com/user-attachments/assets/25d1d98e-6ccd-4459-957f-c91ac4edd97e" />
+
 
 ### TCP traceroute :
-<img width="700" height="166" alt="Screenshot 2025-08-30 234221" src="https://github.com/user-attachments/assets/d2ae16e0-c67b-4436-ac76-09bac1b0cc92" />
+
+<img width="747" height="394" alt="image" src="https://github.com/user-attachments/assets/c957bd67-1b5e-42ba-baee-1fa5332cbb47" />
+
 
 ### UDP traceroute :
 
-<img width="633" height="550" alt="Screenshot 2025-08-30 233730" src="https://github.com/user-attachments/assets/3d46ffcd-6f1a-447c-9e60-8d9288d81a16" />
+<img width="731" height="527" alt="image" src="https://github.com/user-attachments/assets/7478e1f6-9ed0-4a13-8629-fed1faa85635" />
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
